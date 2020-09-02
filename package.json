@@ -7,6 +7,10 @@
     "icon": "icon.png",    
         "vscode": "^1.48.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dylxntn/bsallvsnippets"
+      },
     "categories": [
         "Snippets"
     ],
