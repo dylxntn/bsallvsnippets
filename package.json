@@ -1,10 +1,11 @@
 {
     "name": "bootstrap-all-version-snippet-extension",
     "displayName": "Bootstrap All Version Snippet Extension",
-    "description": "Get Snippets for Bootstrap 1 to 4",
-    "version": "0.0.1",
+    "description": "Get Snippets for Bootstrap 1 to 5",
+    "publisher": "DylxnTN",
+    "version": "1.3.1",
     "engines": {
-    "icon": "icon.png",    
+    "icon": "images/bootstrap-logo-black.png",    
         "vscode": "^1.48.0"
     },
     "repository": {
